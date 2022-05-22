@@ -1,2 +1,2 @@
-# todo-react
+# React-practice-test
 Created with CodeSandbox
